@@ -6,9 +6,7 @@ MailPilot is an AI-powered email operations agent designed to make inbox managem
 
 This project is being built as a hands-on exploration of **AI agents, n8n workflow automation, tool/API integration, and practical LLM-powered workflows**.
 
-> 🚧 **Status:** Early Development
 
----
 
 ## 💡 The Idea
 
@@ -96,25 +94,7 @@ The stack may evolve as the project develops. Technologies will be added when th
 
 ---
 
-## 🗺️ Development Roadmap
 
-- [ ] Set up project structure
-- [ ] Configure n8n
-- [ ] Connect Gmail
-- [ ] Build email ingestion workflow
-- [ ] Implement email classification
-- [ ] Implement priority detection
-- [ ] Add summarization
-- [ ] Add action-item extraction
-- [ ] Add follow-up detection
-- [ ] Add meeting-request detection
-- [ ] Add reply drafting
-- [ ] Build daily inbox digest
-- [ ] Add tests and sample workflows
-- [ ] Dockerize the project
-- [ ] Document the final architecture
-
----
 
 ## 📚 What I'm Exploring
 
